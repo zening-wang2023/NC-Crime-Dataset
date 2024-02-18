@@ -1,0 +1,11 @@
+year,city,crime_major_category,crime_detail,latitude,longitude,occurance_time,clear_status,incident_address,notes
+2022,Durham,Miscellaneous,Intimidation,36.03734,-78.87843,2022/05/20 12:00:00,Cleared By Arrest,3500 DEARBORN DR,No Data
+2019,Durham,Fraud,Fraud-Identity Theft,35.90624,-78.90556,2019/01/01 00:01:00,Inactive,4400 EMERALD FOREST DR,No Data
+2020,Durham,Theft,Larceny - Automobile Parts Or Accessories,35.98809,-78.88952,2020/03/09 00:00:00,Active/Open,100 EDGEMONT LN,No Data
+2022,Durham,Theft,Towed/Abandoned Vehicle,35.92415,-78.78532,2022/07/19 10:30:00,Closed (Non-Criminal),1000 ANDREWS CHAPEL RD,No Data
+2018,Durham,Drugs,Drug/Narcotic Violations,35.97721,-78.89507,2018/10/18 14:35:00,Inactive,800 DUPREE ST,No Data
+2018,Durham,Drugs,Drug Equipment/Paraphernalia,35.97732,-78.89538,2018/10/18 14:35:00,Inactive,800 DUPREE ST,No Data
+2018,Durham,Drugs,Drug/Narcotic Violations,35.9933,-78.85363,2018/11/19 12:00:00,Cleared By Arrest,300 JUNCTION RD,No Data
+2019,Durham,Drugs,Drug/Narcotic Violations,36.03996,-78.88676,2019/02/19 17:28:00,Cleared By Arrest,3600 DANUBE LN,No Data
+2018,Durham,Drugs,Drug/Narcotic Violations,35.99334,-78.85367,2018/11/20 17:00:00,Cleared By Arrest,300 JUNCTION RD,No Data
+2019,Durham,Drugs,Drug/Narcotic Violations,35.98892,-78.92349,2019/01/13 16:59:00,Cleared By Arrest,1700 GUNTER ST,No Data
