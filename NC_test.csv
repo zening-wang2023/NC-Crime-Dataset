@@ -1,0 +1,101 @@
+year,city,crime_major_category,crime_detail,latitude,longitude,occurance_time,clear_status,incident_address,notes
+2022,Durham,Miscellaneous,Intimidation,36.03734,-78.87843,2022/05/20 12:00:00,Cleared By Arrest,3500 DEARBORN DR,No Data
+2019,Durham,Fraud,Fraud-Identity Theft,35.90624,-78.90556,2019/01/01 00:01:00,Inactive,4400 EMERALD FOREST DR,No Data
+2020,Durham,Theft,Larceny - Automobile Parts Or Accessories,35.98809,-78.88952,2020/03/09 00:00:00,Active/Open,100 EDGEMONT LN,No Data
+2022,Durham,Theft,Towed/Abandoned Vehicle,35.92415,-78.78532,2022/07/19 10:30:00,Closed (Non-Criminal),1000 ANDREWS CHAPEL RD,No Data
+2018,Durham,Drugs,Drug/Narcotic Violations,35.97721,-78.89507,2018/10/18 14:35:00,Inactive,800 DUPREE ST,No Data
+2018,Durham,Drugs,Drug Equipment/Paraphernalia,35.97732,-78.89538,2018/10/18 14:35:00,Inactive,800 DUPREE ST,No Data
+2018,Durham,Drugs,Drug/Narcotic Violations,35.9933,-78.85363,2018/11/19 12:00:00,Cleared By Arrest,300 JUNCTION RD,No Data
+2019,Durham,Drugs,Drug/Narcotic Violations,36.03996,-78.88676,2019/02/19 17:28:00,Cleared By Arrest,3600 DANUBE LN,No Data
+2018,Durham,Drugs,Drug/Narcotic Violations,35.99334,-78.85367,2018/11/20 17:00:00,Cleared By Arrest,300 JUNCTION RD,No Data
+2019,Durham,Drugs,Drug/Narcotic Violations,35.98892,-78.92349,2019/01/13 16:59:00,Cleared By Arrest,1700 GUNTER ST,No Data
+2019,Durham,Drugs,Drug Equipment/Paraphernalia,35.98919,-78.92308,2019/01/13 16:59:00,Cleared By Arrest,1700 GUNTER ST,No Data
+2018,Durham,Theft,Motor Vehicle Theft,36.05155,-78.90447,2018/10/01 00:07:00,Active/Open,3800 N DUKE ST,Weapon: Personal Weapons
+2018,Durham,Theft,Burglary,36.00219,-78.88339,2018/10/01 04:05:00,Inactive,1000 DREW ST,No Data
+2018,Durham,Theft,Motor Vehicle Theft,35.95095,-78.9709,2018/10/01 05:00:00,Inactive,5000 GARRETT RD,No Data
+2018,Durham,Theft,Towed/Abandoned Vehicle,35.94288,-78.91843,2018/10/01 05:33:00,(blank),200 KENT LAKE DR,No Data
+2018,Durham,Theft,Towed/Abandoned Vehicle,35.9677,-78.90553,2018/10/01 05:56:00,Inactive,2600 ATLANTIC ST,No Data
+2018,Durham,Assault,Simple Assault,35.98057,-78.87339,2018/10/01 05:53:00,Cleared By Arrest,2400 ANGIER AVE,Weapon: Personal Weapons
+2018,Durham,Theft,Larceny - From Motor Vehicle,35.94593,-78.92783,2018/10/01 07:00:00,Active/Open,200 GREY ELM TRL,No Data
+2018,Durham,Theft,Larceny - Shoplifting,35.98933,-78.85965,2018/10/01 07:25:00,Inactive,2400 HOLLOWAY ST,No Data
+2018,Durham,Theft,Burglary,35.98635,-78.85869,2018/10/01 07:39:00,Inactive,300 US 70 SERVICE RD,No Data
+2018,Durham,Theft,Lost Property,35.98766,-78.84766,2018/10/01 08:09:00,Inactive,HOLLOWAY ST/RUMMEL ST,No Data
+2018,Durham,Theft,Towed/Abandoned Vehicle,35.9759,-78.88932,2018/10/01 08:39:00,Active/Open,SIMA AVE/RIDGEWAY AVE,No Data
+2018,Durham,Theft,Vandalism,35.95717,-78.92935,2018/10/01 08:12:00,Inactive,300 ARCHDALE DR,No Data
+2018,Durham,Theft,Larceny - From Motor Vehicle,35.89883,-78.95399,2018/10/01 08:54:00,Active/Open,8000 CRICHTON LN,No Data
+2018,Durham,Assault,Simple Assault,35.88468,-78.83016,2018/10/01 07:00:00,Cleared By Arrest,5600 ARRINGDON PARK DR,Weapon: Personal Weapons
+2018,Durham,Theft,Larceny - All Other,35.99727,-78.82231,2018/10/01 08:10:00,Inactive,1000 HOMECOMING WAY,No Data
+2018,Durham,Drugs,Drug/Narcotic Violations,36.04615,-78.9338,2018/10/01 07:45:00,Cleared By Arrest,2500 HITCHCOCK DR,No Data
+2018,Durham,Drugs,Drug Equipment/Paraphernalia,36.0459,-78.93377,2018/10/01 07:45:00,Cleared By Arrest,2500 HITCHCOCK DR,No Data
+2018,Durham,Miscellaneous,Dv Info Report (No Crime),36.01219,-78.94164,2018/10/01 08:15:00,Active/Open,2800 CREST ST,No Data
+2018,Durham,Theft,Larceny - All Other,35.95462,-78.98846,2018/10/01 08:51:00,(blank),3300 SOUTHWEST DURHAM DR,No Data
+2018,Durham,Miscellaneous,All Other Criminal Offenses,35.99312,-78.90078,2018/10/01 08:37:00,Cleared By Arrest,200 S MANGUM ST,No Data
+2018,Durham,Miscellaneous,All Other Criminal Offenses,35.99303,-78.90034,2018/10/01 09:00:00,Cleared By Arrest,200 S MANGUM ST,No Data
+2018,Durham,Theft,Larceny - From Building,35.96214,-78.9115,2018/10/01 12:44:00,Cleared By Arrest,200 MUTUAL CT,No Data
+2018,Durham,Theft,Motor Vehicle Theft,35.96209,-78.91148,2018/10/01 12:44:00,Cleared By Arrest,200 MUTUAL CT,No Data
+2018,Durham,Theft,Motor Vehicle Theft,35.88536,-78.88713,2018/10/01 09:18:00,Cleared By Arrest,200 GLEN FALLS LN,No Data
+2018,Durham,Theft,Larceny - From Motor Vehicle,35.95249,-78.96737,2018/10/01 10:04:00,(blank),4800 UNIVERSITY DR,Weapon: Personal Weapons
+2018,Durham,Theft,Burglary,36.02969,-78.84219,2018/10/01 02:00:00,Inactive,1500 GLENN SCHOOL RD,No Data
+2018,Durham,Theft,Larceny - From Motor Vehicle,36.05109,-78.92396,2018/10/01 09:59:00,Active/Open,1400 NEW CASTLE RD,No Data
+2018,Durham,Theft,Motor Vehicle Theft,36.05127,-78.92371,2018/10/01 09:59:00,Active/Open,1400 NEW CASTLE RD,No Data
+2018,Durham,Theft,Vandalism,35.99036,-78.92687,2018/10/01 01:20:00,Cleared By Exception,2000 CHAPEL HILL RD,No Data
+2018,Durham,Theft,Towed/Abandoned Vehicle,36.04732,-78.92375,2018/10/01 10:23:00,Closed (Non-Criminal),1600 ROWEMONT DR,No Data
+2018,Durham,Theft,Larceny - From Building,36.00701,-78.92171,2018/10/01 07:15:00,Inactive,1900 W MAIN ST,No Data
+2018,Durham,Miscellaneous,All Other Offenses-Parole/Probation Violations,35.98104,-78.89679,2018/10/01 10:38:00,Cleared By Arrest,LINWOOD AVE/SPAULDING ST,No Data
+2018,Durham,Miscellaneous,All Other Criminal Offenses,35.98074,-78.89667,2018/10/01 10:38:00,Cleared By Arrest,LINWOOD AVE/SPAULDING ST,No Data
+2018,Durham,Theft,Larceny - All Other,35.8992,-78.95359,2018/10/01 03:30:00,(blank),8000 CRICHTON LN,Weapon: Personal Weapons
+2018,Durham,Theft,Towed/Abandoned Vehicle,36.04891,-78.89705,2018/10/01 11:42:00,Inactive,4000 FREEDOM LAKE DR,No Data
+2018,Durham,Drugs,Drug/Narcotic Violations,35.99375,-78.87384,2018/10/01 11:35:00,Inactive,800 N BRIGGS AVE,No Data
+2018,Durham,Theft,Larceny - From Motor Vehicle,36.05088,-78.92147,2018/10/01 11:16:00,Cleared By Exception,1300 NEW CASTLE RD,No Data
+2018,Durham,Theft,Burglary,36.01711,-78.94562,2018/10/01 12:25:00,Active/Open,S LASALLE ST/W PETTIGREW ST,Weapon: Knife/Cutting Instrument
+2018,Durham,Theft,Larceny - From Building,35.98798,-78.92735,2018/10/01 12:50:00,(blank),2000 CHAPEL HILL RD,Weapon: Personal Weapons
+2018,Durham,Fraud,Fraud-Identity Theft,36.04893,-78.92027,2018/10/01 13:11:00,Inactive,1300 NEW CASTLE RD,No Data
+2018,Durham,Fraud,Embezzlement,36.0544,-78.90262,2018/10/01 10:00:00,Inactive,4400 N ROXBORO ST,Weapon: Personal Weapons
+2018,Durham,Theft,Larceny - From Building,35.98934,-78.89025,2018/10/01 13:34:00,Inactive,900 E MAIN ST,Weapon: Personal Weapons
+2018,Durham,Theft,Lost Property,35.9883,-78.88101,2018/10/01 13:38:00,Active/Open,300 N MAPLE ST,No Data
+2018,Durham,Miscellaneous,Assist Other Agency,35.88335,-78.9148,2018/10/01 12:00:00,Inactive,5600 PELHAM RD,No Data
+2018,Durham,Theft,Burglary,36.0121,-78.94549,2018/10/01 14:17:00,Inactive,12200 MCQUEEN DR,No Data
+2018,Durham,Theft,Burglary,35.94962,-78.90938,2018/10/01 14:24:00,Inactive,600 BUXTON ST,No Data
+2018,Durham,Theft,Vandalism,35.95019,-78.99577,2018/10/01 06:00:00,(blank),3500 MT MORIAH RD,No Data
+2018,Durham,Assault,Aggravated Assault,35.91133,-78.93618,2018/10/01 14:17:00,Active/Open,200 NC 54 HWY W,Weapon: Handgun
+2018,Durham,Sexual Offenses,Sex Offense - Forcible Rape,36.00737,-78.90499,2018/10/01 12:24:00,Inactive,800 N DUKE ST,No Data
+2018,Durham,Sexual Offenses,Sex Offense - Sexual Assault With An Object,36.00729,-78.90506,2018/10/01 12:24:00,Inactive,800 N DUKE ST,No Data
+2018,Durham,Theft,Larceny - Shoplifting,36.03177,-78.92863,2018/10/01 14:45:00,Active/Open,2900 GUESS RD,No Data
+2018,Durham,Fraud,Counterfeiting/Forgery,36.04877,-78.90494,2018/10/01 14:49:00,Unfounded,3600 N DUKE ST,No Data
+2018,Durham,Theft,Towed/Abandoned Vehicle,35.94416,-78.90272,2018/10/01 15:00:00,(blank),1400 E CORNWALLIS RD,No Data
+2018,Durham,Assault,Aggravated Assault,35.9582,-78.87202,2018/10/01 14:13:00,Inactive,1100 ELLIS RD,Weapon: Handgun
+2018,Durham,Theft,Motor Vehicle Theft,36.04897,-78.92066,2018/10/01 15:11:00,Inactive,1300 NEW CASTLE RD,No Data
+2018,Durham,Fraud,Fraud - Confidence Games/Trickery,35.93011,-78.78246,2018/10/01 11:30:00,Inactive,1100 GASTON MANOR DR,No Data
+2018,Durham,Theft,Vandalism,35.99356,-78.85393,2018/10/02 14:49:00,Active/Open,300 JUNCTION RD,No Data
+2018,Durham,Theft,Larceny - All Other,36.05947,-78.87341,2018/10/01 15:40:00,Active/Open,4600 SWANNS MILL DR,No Data
+2018,Durham,Theft,Lost Property,35.94905,-78.99528,2018/10/01 16:50:00,(blank),3700 MT MORIAH RD,No Data
+2018,Durham,Miscellaneous,Suspicious Activity,35.98613,-78.92738,2018/10/01 16:21:00,Active/Open,2000 CHAPEL HILL RD,No Data
+2018,Durham,Theft,Larceny - From Motor Vehicle,35.87115,-78.85508,2018/10/01 16:49:00,Inactive,700 KEYSTONE PARK DR,No Data
+2018,Durham,Theft,Lost Property,36.01805,-78.90962,2018/10/01 16:00:00,Active/Open,1000 W CLUB BLVD,No Data
+2018,Durham,Theft,Larceny - Shoplifting,36.02853,-78.84467,2018/10/01 15:30:00,Cleared By Arrest,1500 GLENN SCHOOL RD,No Data
+2018,Durham,Miscellaneous,Intimidation,35.97421,-78.95791,2018/10/01 10:38:00,Active/Open,2800 PICKETT RD,No Data
+2018,Durham,Miscellaneous,All Other Criminal Offenses,35.97391,-78.95749,2018/10/01 10:38:00,Active/Open,2800 PICKETT RD,No Data
+2018,Durham,Miscellaneous,Suspicious Activity,35.97416,-78.9579,2018/10/01 10:38:00,Active/Open,2800 PICKETT RD,No Data
+2018,Durham,Theft,Vandalism,36.04864,-78.85729,2018/10/01 17:29:00,Active/Open,700 GLADE ASTER DR,No Data
+2018,Durham,Theft,Vandalism,36.04008,-78.90609,2018/10/01 10:15:00,Active/Open,500 W CARVER ST,Weapon: Blunt Objects
+2018,Durham,Miscellaneous,Calls For Service (No Crime),36.00574,-78.90592,2018/10/01 16:00:00,Inactive,900 W TRINITY AVE,No Data
+2018,Durham,Theft,Larceny - From Building,36.01825,-78.90988,2018/10/01 17:00:00,Active/Open,1000 W CLUB BLVD,No Data
+2018,Durham,Theft,Burglary,35.98899,-78.92424,2018/10/01 06:15:00,Inactive,1700 DEAN ST,No Data
+2018,Durham,Miscellaneous,Robbery - Commercial,35.92271,-78.92804,2018/10/01 18:52:00,Inactive,5700 FAYETTEVILLE RD,No Data
+2018,Durham,Miscellaneous,Robbery - Individual,35.98539,-78.90941,2018/10/01 17:14:00,Inactive,1100 UNIVERSITY DR,Weapon: Personal Weapons
+2018,Durham,Assault,Aggravated Assault,36.02322,-78.91772,2018/10/01 19:15:00,Cleared By Exception,2000 GUESS RD,Weapon: Blunt Objects
+2018,Durham,Miscellaneous,Intimidation,35.99309,-78.90039,2018/10/01 18:51:00,Inactive,200 S MANGUM ST,No Data
+2018,Durham,Theft,Larceny - All Other,35.98342,-78.84502,2018/10/01 19:12:00,Inactive,100 CUSHMAN ST,No Data
+2018,Durham,Fraud,Fraud - Credit Card/Atm,35.94951,-78.99138,2018/10/01 14:00:00,Inactive,5200 MCFARLAND DR,No Data
+2018,Durham,Fraud,Fraud - Unauthorized Use Of Conveyance,35.98428,-78.89859,2018/10/01 18:57:00,Active/Open,900 FAYETTEVILLE ST,No Data
+2018,Durham,Miscellaneous,Dv Info Report (No Crime),35.92711,-78.89508,2018/10/01 17:42:00,Inactive,5200 PENRITH DR,No Data
+2018,Durham,Assault,Aggravated Assault,36.00188,-78.89968,2018/10/01 03:00:00,Inactive,W CORPORATION ST/RIGSBEE AVE,Weapon: Handgun
+2018,Durham,Theft,Vandalism,36.00192,-78.90013,2018/10/01 03:00:00,Inactive,W CORPORATION ST/RIGSBEE AVE,Weapon: Handgun
+2018,Durham,Theft,Larceny - From Motor Vehicle,36.00158,-78.91128,2018/10/01 16:30:00,Inactive,1100 W MAIN ST,No Data
+2018,Durham,Assault,Aggravated Assault,35.99368,-78.89601,2018/10/01 18:45:00,Inactive,400 LIBERTY ST,Weapon: Knife/Cutting Instrument
+2018,Durham,Theft,Larceny - From Motor Vehicle,36.0019,-78.91157,2018/10/01 16:30:00,Inactive,1100 W MAIN ST,No Data
+2018,Durham,Miscellaneous,Runaway,36.00018,-78.8824,2018/10/01 19:30:00,Cleared By Exception,1100 ELMO ST,No Data
+2018,Durham,Theft,Towed/Abandoned Vehicle,35.89607,-78.89924,2018/10/01 00:00:00,Closed (Non-Criminal),5000 NC 55 HWY,No Data
+2018,Durham,Theft,Recovered Stolen Property (Other Jurisdiction),35.91904,-78.96105,2018/10/01 20:00:00,Active/Open,NC 54 HWY W/NC 751 HWY,No Data
+2018,Durham,Miscellaneous,All Other Offenses-Court Violations,35.96303,-78.95483,2018/10/01 21:27:00,Cleared By Arrest,3300 SHANNON RD,No Data
+2018,Durham,Assault,Simple Assault,35.9882,-78.91976,2018/10/01 21:17:00,Active/Open,1200 CORNELL ST,No Data
