@@ -1,3 +1,4 @@
 NC_dataset.csv filter=lfs diff=lfs merge=lfs -text
 NC_half.csv filter=lfs diff=lfs merge=lfs -text
 NC_drop.csv filter=lfs diff=lfs merge=lfs -text
+NC_dataset.csv.zip filter=lfs diff=lfs merge=lfs -text
