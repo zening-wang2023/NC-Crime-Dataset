@@ -5,7 +5,7 @@ This repository contains the North Carolina Crime Dataset, designed for use with
 ## Detailed Information
 
 For more detailed information about the North Carolina Crime Dataset, including its structure, potential use cases, and how to contribute, please visit our detailed documentation on Hugging Face:
-[Detailed Dataset Information](https://huggingface.co/datasets/zwn22/NC_Crime/blob/main/README.md)
+[Detailed Dataset Information](https://huggingface.co/datasets/zwn22/NC_Crime/blob/main/README.md).
 
 ## Accessing the Dataset
 
